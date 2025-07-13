@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+I’m a 15-year-old student currently studying in 9th grade at AILT Global Academy. I have a deep passion for learning, creativity, and personal growth. I’m proud to be a public speaker, selected for FACEx, a national-level platform where I represented my school among students from across India. Alongside this, I’m also a web designer and developer, always exploring new ways to build and design for the web. I believe in staying curious, working hard, and constantly improving my skills.
